@@ -1,0 +1,104 @@
+/* styles.css */
+
+/* Tùy chỉnh màu nền cho header */
+header {
+    background-color: #f8f9fa;
+}
+
+/* Tùy chỉnh màu nền cho footer */
+footer {
+    background-color: #f8f9fa;
+}
+
+/* Tùy chỉnh màu chữ cho navbar-brand */
+.navbar-brand {
+    color: #333;
+}
+
+/* Tùy chỉnh màu nền cho active nav-link */
+.nav-link.active {
+    background-color: #007bff;
+    color: #fff;
+}
+/* styles.css */
+
+/* Tùy chỉnh màu nền cho navbar-brand */
+.navbar-brand {
+  background-color: #f8f9fa;
+  padding: 10px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Tùy chỉnh khoảng cách và đường viền cho container */
+.container {
+  margin-top: 20px;
+  border: 1px solid #ddd;
+  padding: 20px;
+}
+/* styles.css */
+
+/* Tùy chỉnh màu nền cho button Edit và Delete */
+.btn-edit,
+.btn-delete {
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 5px;
+  padding: 5px 10px;
+  text-decoration: none;
+  margin-right: 5px;
+}
+
+/* Tùy chỉnh màu nền cho button Delete */
+.btn-delete {
+  background-color: #dc3545;
+}
+
+/* Tùy chỉnh màu chữ cho button Delete */
+.btn-delete:hover {
+  background-color: #c82333;
+}
+
+/* Tùy chỉnh màu chữ cho button Edit */
+.btn-edit:hover {
+  background-color: #0056b3;
+}
+/* styles.css */
+
+/* Tùy chỉnh khoảng cách giữa các phần tử trong form */
+.form-control {
+  margin-bottom: 10px;
+}
+
+/* Tùy chỉnh màu nền và màu chữ cho nút Save */
+.btn-primary {
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+/* Tùy chỉnh màu chữ khi hover nút Save */
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+/* styles.css */
+
+/* Tùy chỉnh khoảng cách giữa các phần tử trong form */
+.form-control {
+  margin-bottom: 10px;
+}
+
+/* Tùy chỉnh màu nền và màu chữ cho nút Save */
+input[type="submit"] {
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+/* Tùy chỉnh màu chữ khi hover nút Save */
+input[type="submit"]:hover {
+  background-color: #0056b3;
+}
